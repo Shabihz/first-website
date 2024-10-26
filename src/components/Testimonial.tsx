@@ -15,7 +15,7 @@ const Testimonial = () => {
             alt="dp"
             />
             <h2 className='text-gray-500 font-black text-[20px]'>Syed Zain</h2>
-            <p>CEO & Founder of Zain's Market </p>
+            <p>CEO &amp; Founder of Zain&apos;s Market</p>
         
         <Image
         className='inline-block py-2'

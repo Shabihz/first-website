@@ -1,4 +1,4 @@
-import { title } from 'process'
+//import { title } from 'process'
 import React from 'react'
 import ProductCard from './ProductCard';
  const productData=[
@@ -7,7 +7,7 @@ import ProductCard from './ProductCard';
     title:"Watches",
     desc:"Pocket Watch Leather Pocket",
     rating:4,
-    price:"20.00",
+    price:20.00,
 
    },
   
@@ -16,7 +16,7 @@ import ProductCard from './ProductCard';
      title:"Perfume Talc",
      desc:" Delicately scented with a blend of floral and warm notes",
      rating:3,
-     price:"58.00",
+     price:58.00,
 
     },
     {
@@ -24,7 +24,7 @@ import ProductCard from './ProductCard';
         title:"Watches",
         desc:"Smart Watches vitel Plus",
         rating:4,
-        price:"20.00",
+        price:20.00,
    
        },
        {
@@ -32,7 +32,7 @@ import ProductCard from './ProductCard';
         title:"Watches",
         desc:"Pocket Watch Leather ",
         rating:4,
-        price:"20.00",
+        price:20.00,
    
        },
        {
@@ -40,7 +40,7 @@ import ProductCard from './ProductCard';
         title:"Watches",
         desc:"Beautiful Golden Watch",
         rating:4,
-        price:"20.00",
+        price:20.00,
    
        },
        {
@@ -48,21 +48,21 @@ import ProductCard from './ProductCard';
         title:"Ladies Perfume",
         desc:" It's the essence of luxury",
         rating:4,
-        price:"250.00",
+        price:250.00,
        },
        {
         img:"/perfume5.png",
         title:"Men's Perfume",
         desc:"Buy two only $350",
         rating:4,
-        price:"250.00",
+        price:250.00,
        },
        {
         img:"/perfume8.png",
         title:"Ladies Perfume",
-        desc:"Order now limited stock availiable",
+        desc:"Order now limited stock avaliable",
         rating:5,
-        price:"250.00",
+        price:250.00,
        }
     ];
 
